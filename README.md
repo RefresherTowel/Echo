@@ -75,13 +75,12 @@ If `ECHO_DEBUG_ENABLED` is set to 0, all Echo functions become no ops (apart fro
 Full online docs for Echo are available here:
 
 ### Echo docs:
-https://refreshertowel.github.io/docs/echo/
+[Echo Documentation](https://refreshertowel.github.io/docs/echo/)
 
 ### Where to buy
 
 Echo is available on itch.io:
 
-Itch page:
 [Echo on itch.io](https://refreshertowel.itch.io/echo)
 
 Echo is also included for free with some RefresherTowel frameworks, such as Statement.
@@ -91,7 +90,7 @@ Echo is also included for free with some RefresherTowel frameworks, such as Stat
 The best place to report bugs or request features is the GitHub Issues page:
 
 Issues:
-[https://github.com/RefresherTowel/Echo/issues](https://github.com/RefresherTowel/Echo/issues)
+[Echo Github Issues](https://github.com/RefresherTowel/Echo/issues)
 
 If you are not comfortable using GitHub, you can also post in the [**Echo channel on the RefresherTowel Games Discord**](https://discord.gg/w5NWDBwNta) and I can file an issue for you.
 
