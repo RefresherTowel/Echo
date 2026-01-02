@@ -82,7 +82,7 @@ https://refreshertowel.github.io/docs/echo/
 Echo is available on itch.io:
 
 Itch page:
-itch-url
+[Echo on itch.io](https://refreshertowel.itch.io/echo)
 
 Echo is also included for free with some RefresherTowel frameworks, such as Statement.
 
